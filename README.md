@@ -49,7 +49,8 @@
 ## 注意事项
 1. 建议定期备份数据库
 
-
+## THANKS
+ https://github.com/Difegue/LANraragi
 
 
 
