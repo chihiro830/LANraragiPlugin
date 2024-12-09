@@ -1,7 +1,3 @@
-# LANraragiScrpit
-Enhance the performance of LANraragi's Subfolders to Categories plugin for faster /增强 LANraragi归档插件的性能
-# FolderToCat Plugin Enhancement
-
 ## 项目简介
 这是对 LANraragi 的 FolderToCat 插件的增强版本。该插件可以将内容文件夹中的子文件夹自动转换为静态分类，使管理大量漫画更加便捷。
 
