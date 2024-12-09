@@ -37,7 +37,7 @@ Enhance the performance of LANraragi's Subfolders to Categories plugin for faste
 1. **删除现有分类**
    - 类型: 布尔值
    - 默认值: false
-   - 说明: 是否在创建新分类前删除所有现有静态分类
+   - 说明: 是否在创建新分类前删除所有现有静态分类，否则在原有分类的基础下增量更新漫画。
 
 2. **仅使用顶层目录**
    - 类型: 布尔值
